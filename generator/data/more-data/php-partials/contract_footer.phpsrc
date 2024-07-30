@@ -19,9 +19,14 @@ function headerWithTitle($title) {
     <title>' . $title . '</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
     <meta name="robots" content="noindex">
+    <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/thealainpaul/thealainpaul.github.io/main/Favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://raw.githubusercontent.com/thealainpaul/thealainpaul.github.io/main/Favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://raw.githubusercontent.com/thealainpaul/thealainpaul.github.io/main/Favicon.ico">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://raw.githubusercontent.com/thealainpaul/thealainpaul.github.io/main/Favicon.ico">
     <link rel="preconnect" href="https://cdn.skypack.dev">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preconnect" href="https://fonts.googleapis.com">
+
     <style></style>
   </head>
   <body>
